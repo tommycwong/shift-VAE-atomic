@@ -1,4 +1,4 @@
-# shift-VAE_STEM_examples
+# shift-VAE-atomic
 
 Codes (and data) for reproducing the results of the paper **Finding simplicity: unsupervised discovery of features, patterns, and order parameters via 
 shift-invariant variational autoencoders**.
