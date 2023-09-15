@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Examples for Finding simplicity: unsupervised discovery of
+  features, patterns, and order parameters via
+  shift-invariant variational autoencoders
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Maxim
+    family-names: Ziatdinov
+    affiliation: >-
+      Center for Nanophase Materials Sciences and
+      Computational Sciences and Engineering Division, Oak
+      Ridge National Laboratory
+    email: ziatdinovma@ornl.gov
+  - given-names: Chun Yin (Tommy)
+    family-names: Wong
+    email: cwong13@vols.utk.edu
+    affiliation: >-
+      3Bredesen Center for Interdisciplinary Research and
+      Graduate Education, University of Tennessee, Knoxville
+  - given-names: Sergei V.
+    family-names: Kalinin
+    email: sergei2@utk.edu
+    affiliation: >-
+      Department of Materials Science and Engineering,
+      University of Tennessee, Knoxville
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8347390
+repository-code: 'https://github.com/tommycwong/shift-VAE-atomic/tree/1.0.0'
