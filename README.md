@@ -1,7 +1,7 @@
 # shift-VAE-atomic
 
 Codes (and data) for reproducing the results of the paper **Finding simplicity: unsupervised discovery of features, patterns, and order parameters via 
-shift-invariant variational autoencoders** ([arXiv:2106.12472](https://doi.org/10.48550/arXiv.2106.12472)).
+shift-invariant variational autoencoders** (10.1088/2632-2153/ad073b, [arXiv:2106.12472](https://doi.org/10.48550/arXiv.2106.12472)).
 
 **_shift_VAE_1D_examples_v2.ipynb_** 
 <a target="_blank" href="https://colab.research.google.com/github/tommycwong/shift-VAE-atomic/blob/main/shift_VAE_1D_examples.ipynb">
